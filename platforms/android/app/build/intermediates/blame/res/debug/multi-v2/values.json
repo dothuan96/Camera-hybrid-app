@@ -1,0 +1,120 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\HOMEWORK\\OAMK\\MyApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\HOMEWORK\\OAMK\\MyApp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "164,55,105",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "223,100,159"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,165,215",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "160,210,269"
+                    }
+                },
+                {
+                    "source": "E:\\HOMEWORK\\OAMK\\MyApp\\platforms\\android\\app\\src\\main\\res\\values\\camera_theme.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "7",
+                        "endColumns": "10",
+                        "endOffsets": "374"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "274",
+                        "endLines": "11",
+                        "endColumns": "10",
+                        "endOffsets": "595"
+                    }
+                },
+                {
+                    "source": "E:\\HOMEWORK\\OAMK\\MyApp\\platforms\\android\\app\\src\\main\\res\\values\\camera_ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\dovth\\MyApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dovth\\MyApp\\platforms\\android\\app\\src\\main\\res\\values\\camera_theme.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endLines": "7",
+                        "endColumns": "10",
+                        "endOffsets": "374"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "274",
+                        "endLines": "11",
+                        "endColumns": "10",
+                        "endOffsets": "595"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dovth\\MyApp\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "164,55,105",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "223,100,159"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "101,165,215",
+                        "endColumns": "63,49,58",
+                        "endOffsets": "160,210,269"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dovth\\MyApp\\platforms\\android\\app\\src\\main\\res\\values\\camera_ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}
