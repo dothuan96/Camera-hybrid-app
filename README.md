@@ -9,13 +9,13 @@ Cordova based applications are, at the core, applications written with web techn
 - Java JDK 1.8 or greater
 - Android SDK [http://developer.android.com](http://developer.android.com)
 
-##Install Cordova
+## Install Cordova
 
 - [Cordova Lastest version](https://cordova.apache.org/)
 - [Documentation](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
 - [Android Platform](https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
 
-##Run application
+## Run application
 
 `cordova run android`
 
