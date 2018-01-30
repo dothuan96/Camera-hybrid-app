@@ -14,10 +14,8 @@ function onDevice() {
   function accessCamera(selection) {
     var srcType = Camera.PictureSourceType.CAMERA;
     var options = setOptions(srcType);
-    var nativePathToJpegImage = '/data/data/<package_name>/files/some_dir/some_image.jpg';
 
     navigator.camera.getPicture(onSuccess, onFail, options);
-    window.cordova.plugins.imagesaver.saveImageToGallery(nativePathToJpegImage, onSuccess, onFail);
   }
 
   /*pick a photo from library by srcType = Camera.PictureSourceType.SAVEDPHOTOALBUM;*/

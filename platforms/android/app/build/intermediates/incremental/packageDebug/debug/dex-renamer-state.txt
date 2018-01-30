@@ -1,4 +1,4 @@
-#Fri Jan 26 20:48:44 EET 2018
+#Tue Jan 30 21:29:29 EET 2018
 base.0=E\:\\HOMEWORK\\OAMK\\MyApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
 file.0=E\:\\HOMEWORK\\OAMK\\MyApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
